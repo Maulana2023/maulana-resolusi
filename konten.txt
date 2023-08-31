@@ -3,5 +3,4 @@ Konten belajar WPU
 2. bootstrap git github
 3. php
 4. javascript
-5. css unit
-6. css grid
+5. css3
